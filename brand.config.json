@@ -81,10 +81,10 @@
     "platform": {
         "name": "PXTRADES",
         "i18n": {
-            "default_language": "EN"
+            "default_language": "PT"
         },
         "footer": {
-            "enable_language_settings": false,
+            "enable_language_settings": true,
             "enable_theme_toggle": true
         },
         "hostname": {
